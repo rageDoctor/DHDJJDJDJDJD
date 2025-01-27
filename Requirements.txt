@@ -1,0 +1,5 @@
+telebot
+telethon
+aiohttp
+datetime
+user_agent
