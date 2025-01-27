@@ -1,5 +1,5 @@
 telebot
 telethon
 aiohttp
+fake_useragent
 datetime
-user_agent
