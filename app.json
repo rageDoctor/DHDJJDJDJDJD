@@ -1,0 +1,35 @@
+{
+  "name": "dr checker",
+  "description": " اهلا بكم في تنصيب بوت صيد اليوزرات !",
+  "stack": "container",
+  "repository": "",
+  "keywords": [
+      "python",
+      "chatbot",
+      "telegrambot"
+  ],
+  "website": "",
+  "env": {
+      "session": {
+          "description": "كود تيرمكس تليثون",
+          "value": "",
+          "required": true
+      },
+      "id": {
+          "description": "ايدي المتحكم",
+          "value": "",
+          "required": true
+      },
+      "token": {
+          "description": "توكن البوت",
+          "value": "",
+          "required": true
+      }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
