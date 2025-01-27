@@ -5,4 +5,3 @@ telethon
 datetime
 aiohttp
 bs4
-user_agent
