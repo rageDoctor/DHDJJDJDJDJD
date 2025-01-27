@@ -5,3 +5,4 @@ telethon
 datetime
 aiohttp
 fake_useragent
+bs4
