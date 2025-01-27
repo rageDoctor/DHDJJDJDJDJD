@@ -4,5 +4,5 @@ telebot
 telethon
 datetime
 aiohttp
-fake_useragent
 bs4
+user_agent
