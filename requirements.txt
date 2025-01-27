@@ -1,5 +1,7 @@
+kvsqlite
+requests
 telebot
 telethon
+datetime
 aiohttp
 fake_useragent
-datetime
