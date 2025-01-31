@@ -4,3 +4,5 @@ telethon
 aiohttp
 datetime
 kvsqlite 
+user_agent
+fake_useragent
