@@ -2,3 +2,4 @@ telebot
 telethon
 aiohttp
 datetime
+kvsqlite 
