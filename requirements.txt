@@ -1,7 +1,7 @@
-kvsqlite
-requests
-telebot
-telethon
+kvsqlite 1.0.0
+requests 2.31.0
+telebot 0.0.5
+telethon 1.28.5
 datetime
-aiohttp
-bs4
+aiohttp 3.8.5
+bs4 4.12.2
